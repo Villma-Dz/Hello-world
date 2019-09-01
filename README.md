@@ -1,2 +1,2 @@
 # Hello-world
-kažkoks naujas daiktas
+pati pati pradzia
