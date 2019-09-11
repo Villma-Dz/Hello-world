@@ -1,2 +1,2 @@
 # Hello-world
-pati pati pradzia
+repository for my scratchies
